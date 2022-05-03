@@ -6,3 +6,4 @@ Multimodal project for English class.
 3. To play, simple double-click the exe file.
 
 Reminder: Both the executable and "Data" folder MUST be under the same directory.
+Notice: Upon closing the game, you may see an error pop-up saying "quit not defined", ignore and close it.
